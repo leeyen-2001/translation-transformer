@@ -6,6 +6,7 @@ MODELS_DIR = BASE_DIR / 'models'
 PROCESSED_DATA_DIR = BASE_DIR / 'data' / 'processed'
 RAW_DATA_DIR = BASE_DIR / 'data' / 'raw'
 LOGS_DIR = BASE_DIR / 'logs'
+NLTK_DATA_DIR = BASE_DIR / 'data' / 'nltk_data'
 
 DIM_MODEL = 128
 NUM_HEADS = 4
